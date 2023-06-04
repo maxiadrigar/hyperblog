@@ -6,9 +6,19 @@ body{
     padding: 0;
 }
 
+.cabecera{
+    background: #33a;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 7px 7px 23px -5px rgba(0,0,0,0.75);
+}
+
 .container{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid grey;
     margin: 0 auto;
